@@ -31,5 +31,4 @@ int sc_main(int argc, char* argv[])
   cout <<"Value of pad     : " << pad << endl;
 
   return 1;
-  return 1;
 }
